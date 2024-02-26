@@ -1,5 +1,6 @@
 print("Převodník do binárního kódu.(Pouze pro malá písmena.)")
 print("Vytvořil larisek")
+print("Github: https://github.com/larisek")
 input()
 for i in range(1, 101):
     print()
